@@ -1,0 +1,15 @@
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\bin\Debug\net7.0\NYPOtoparkSimulasyonu.exe
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\bin\Debug\net7.0\NYPOtoparkSimulasyonu.deps.json
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\bin\Debug\net7.0\NYPOtoparkSimulasyonu.runtimeconfig.json
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\bin\Debug\net7.0\NYPOtoparkSimulasyonu.dll
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\bin\Debug\net7.0\NYPOtoparkSimulasyonu.pdb
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\obj\Debug\net7.0\NYPOtoparkSimulasyonu.csproj.AssemblyReference.cache
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\obj\Debug\net7.0\NYPOtoparkSimulasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\obj\Debug\net7.0\NYPOtoparkSimulasyonu.AssemblyInfoInputs.cache
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\obj\Debug\net7.0\NYPOtoparkSimulasyonu.AssemblyInfo.cs
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\obj\Debug\net7.0\NYPOtoparkSimulasyonu.csproj.CoreCompileInputs.cache
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\obj\Debug\net7.0\NYPOtoparkSimulasyonu.dll
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\obj\Debug\net7.0\refint\NYPOtoparkSimulasyonu.dll
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\obj\Debug\net7.0\NYPOtoparkSimulasyonu.pdb
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\obj\Debug\net7.0\NYPOtoparkSimulasyonu.genruntimeconfig.cache
+C:\Users\yahya\RiderProjects\uygulama\NYPOtoparkSimulasyonu\NYPOtoparkSimulasyonu\obj\Debug\net7.0\ref\NYPOtoparkSimulasyonu.dll
